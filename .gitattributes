@@ -1,0 +1,10 @@
+* text=auto
+*.bat text eol=crlf
+*.pas text
+*.lpr text
+*.lpi text
+*.md text
+*.jpg binary
+*.tif binary
+*.png binary
+*.bmp binary

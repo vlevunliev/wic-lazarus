@@ -1,0 +1,28 @@
+# Free Pascal / Lazarus
+lib/
+backup/
+*.exe
+*.dll
+*.o
+*.ppu
+*.a
+*.or
+*.res
+*.compiled
+*.lps
+*.log
+
+# Изходи от test\run_test.bat
+test/out.txt
+test/out_t*.png
+test/rt.*
+test/q30.jpg
+test/q95.jpg
+test/m_*.jpg
+test/m_*.tif
+test/ex_*.tif
+test/изход.png
+test/снимка_ёж.tif
+
+# Изход от probe\wicprobe.bat
+wicprobe.txt
